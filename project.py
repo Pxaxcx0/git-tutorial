@@ -1,3 +1,6 @@
+def check_antwoord(antwoord):
+    return antwoord == 42
+
 def hello_world(lang):
     if lang == "NL":
         print("Hallo wereld!")
